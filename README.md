@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 🌍 I'm working in **EDF Renewable** team 
+
 - 👨‍💻 All of my projects are available at [https://portfolio-nad-cat.vercel.app/](https://portfolio-nad-cat.vercel.app/)
 
 - 📫 How to reach me **pelcat.nd@gmail.com**
