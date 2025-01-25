@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadège</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Python**
 
 - 🌍 I'm working in **EDF Renewable** team 
 
